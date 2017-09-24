@@ -17,7 +17,8 @@ font-family: 'Lobster', cursive;
 color: #40E0D0;
 }
 .save {
-  float: right; }
+  float: right; 
+}
 .post-form textarea, .post-form input { width: 100%;
 }
 .top-menu, .top-menu:hover, .top-menu:visited { color: #ffffff;
